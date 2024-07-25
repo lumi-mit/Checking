@@ -1,0 +1,49 @@
+
+
+				====> 27 // 07 // 2024 <====
+N° |              NOM              |               PRENOM               |MACHINE|   HEURE   |
+---|-------------------------------|------------------------------------|-------|-----------|
+01 |AMBININTSOA                    |Jonuca                        	|       |           |
+02 |ANDRIAMAHEFA                   |Alexandre Fandry              	|       |           |
+03 |ANDRIAMANDRATOMANANA           |Narindrantsoa                 	|       |           |
+04 |ANDRIANALIMANANA               |Finiavana Ambinintsoa         	|       |           |
+05 |ANDRIANANDRAINA                |Maherisoa Fanasina            	|       |           |
+06 |ANDRIANARIMINO                 |Tahiry Ny Aina Lawrena        	|       |           |
+07 |ANDRIANARIVO                   |Lantoniaina Frederick         	|       |           |
+08 |ANDRIANARIVONY                 |Tsiky Fandresena              	|       |           |
+09 |ANDRIANJAFY RAMANAVAHY         |Miaritiana Emile              	|       |           |
+10 |ANDRINOELY                     |Mamy Fitiavana                	|       |           |
+11 |ANDRIANTSARA                   |Mioty Alicia                  	|       |           |
+12 |ANDRY TSIRESY ANDRIAMBONIHAJA  |Tomefy Ny Soa                 	|       |           |
+13 |ANJAMAHENINA                   |Ella Gracia                   	|       |           |
+14 |ANJARAVONJISOA                 |Mandresy Clémence            	|       |           |
+15 |FANANTENANA                    |Valisoa Olivier Jeannet       	|       |           |
+16 |FANIRIANTSOA                   |Mampianina Lucia              	|       |           |
+17 |FYONONA                        |Joseph Honora                 	|       |           |
+18 |HARITSARA                      |Mendrika Ny Avo Fiderana Lucas	|  OUI  | 14:48:08  |
+19 |HERIMANANTSOA                  |Manitriniaina Christian       	|       |           |
+20 |IGNACE                         |Franckie Elia Virginie        	|       |           |
+21 |MAHARAVO                       |Ny Ony Nandrianina            	|       |           |
+22 |MAMPIONONTSOA                  |Mario                         	|       |           |
+23 |MANDA                          |Mahatoky                      	|       |           |
+24 |NIRINJANAHARY                  |Anjaniaina                    	|       |           |
+25 |NOMENA FITIA                   |Famonjena                     	|       |           |
+26 |PABLO Y IARIVO                 |Hendrinimerina                	|       |           |
+27 |RABENANDRASANA                 |Hanitsoa Ayan                 	|       |           |
+28 |RABESON                        |Fanomezantsoa fenitra Emiliah 	|       |           |
+29 |RAELISON                       |Tanjona Zolalaina             	|       |           |
+30 |RAFANOMEZANTSOA                |Tolojanahary Jean Michel      	|       |           |
+31 |RAHARINIRINA                   |Nancia                        	|       |           |
+32 |RAHERIJAONA                    |Ambinintsoa Fifaliana         	|       |           |
+33 |RAHERINIRINA                   |Jean Mamitiana                	|       |           |
+34 |RAJOELINJANAHARINANTENAINA     |Fabien Halaby                 	|       |           |
+35 |RAKOTOARINTSOA                 |Haja Andriamanantena          	|       |           |
+36 |RAKOTOARISOA                   |Harilala                      	|       |           |
+37 |RAKOTOARISON                   |Niaina Gilbert                	|       |           |
+38 |RAKOTOARIVELO                  |Jean                          	|       |           |
+39 |RAKOTOMAVO                     |Miharisoa Sitraka Manambina   	|       |           |
+40 |RAKOTONDRAFARA                 |Ronhy Fetraniaina             	|       |           |
+41 |RAKOTONDRAIBE                  |Mihasintsoa Andria-Jaina Hosea	|       |           |
+42 |RAKOTONDRAZAFY                 |Tahinandriamahery Isaia       	|       |           |
+43 |RAKOTONIAINA                   |Miantsatiana Emmanuella       	|       |           |
+44 |RAKOTOZANANY                   |Notahiana
